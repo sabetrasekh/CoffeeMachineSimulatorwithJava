@@ -1,0 +1,40 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Coffee Machine Simulator with Java/*
+!/Coffee Machine Simulator with Java/task/
+/Coffee Machine Simulator with Java/task/*
+!/Coffee Machine Simulator with Java/task/src
+
+# Project exclude paths
+/Topics/Combining constants with enum/Days of week/out/
+/Topics/Combining constants with enum/Days of week/out/production/classes/
+/Topics/Defining classes/Calculating the volume of a box with given dimensions/out/
+/Topics/Defining classes/Calculating the volume of a box with given dimensions/out/production/classes/
+/Topics/Defining classes/Creating a book class and displaying book details/out/
+/Topics/Defining classes/Creating a book class and displaying book details/out/production/classes/
+/Topics/Initializing new instances. Constructor/Account and its owner/out/
+/Topics/Initializing new instances. Constructor/Account and its owner/out/production/classes/
+/Topics/Initializing new instances. Constructor/Geometric cube/out/
+/Topics/Initializing new instances. Constructor/Geometric cube/out/production/classes/
+/Topics/Initializing new instances. Constructor/Getting the price from a Drink class/out/
+/Topics/Initializing new instances. Constructor/Getting the price from a Drink class/out/production/classes/
+/Topics/Objects and their properties/Army/out/
+/Topics/Objects and their properties/Army/out/production/classes/
+/Topics/Objects and their properties/Null or not/out/
+/Topics/Objects and their properties/Null or not/out/production/classes/
+/Topics/Static members/Detail manufacturing/out/
+/Topics/Static members/Detail manufacturing/out/production/classes/
+/Topics/Static members/Project constants and methods/out/
+/Topics/Static members/Project constants and methods/out/production/classes/
+/Topics/Static members/Time constants/out/
+/Topics/Static members/Time constants/out/production/classes/
